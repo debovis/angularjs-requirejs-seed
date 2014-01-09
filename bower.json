@@ -3,15 +3,16 @@
   "version": "0.4.0",
   "main": "source/index.html",
   "ignore": [
-    "**/.*",
     "node_modules",
     "components"
   ],
   "dependencies": {
-    "angular": "~1.0.7",
-    "angular-resource": "~1.0.7",
-    "angular-mocks": "~1.0.7",
-    "angular-scenario": "~1.0.7",
+    "angular": "~1.2.8",
+    "angular-ui-router": "~0.2.8",
+    "angular-resource": "latest",
+    "angular-mocks": "latest",
+    "angular-mocks": "latest",
+    "angular-scenario": "latest",
     "jasmine-matchers": "https://github.com/JamieMason/Jasmine-Matchers.git",
     "requirejs": "latest",
     "requirejs-domready": "latest",
