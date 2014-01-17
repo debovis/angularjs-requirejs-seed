@@ -11,7 +11,6 @@
     "angular-ui-router": "~0.2.8",
     "angular-resource": "latest",
     "angular-mocks": "latest",
-    "angular-mocks": "latest",
     "angular-scenario": "latest",
     "jasmine-matchers": "https://github.com/JamieMason/Jasmine-Matchers.git",
     "requirejs": "latest",
